@@ -63,7 +63,7 @@ We are using the basic principle behind [constriction hose-valves](https://www.a
 
 The timing currently functions through a microcontroller and two servos. This solution will replaced with the motor of a windscreen wiper with two [camdiscs](https://en.wikipedia.org/wiki/Cam).
 
-[![Camdiscs](img/camdisc.png)](https://autode.sk/3dx6EbZ)
+[![Camdiscs](img/camdisc.gif)](https://autode.sk/3dx6EbZ)
 
 [Camdisc Animation](https://autode.sk/3dx6EbZ)
 

@@ -56,7 +56,7 @@ Se realiza la regulación de sincronización en el prototipo actual a través de
 #### Exhalación
 ![exhalation](img/exp_en.jpg)
 
-[![Kurvenscheiben](img/camdisc.png)](https://autode.sk/3dx6EbZ)
+[![Kurvenscheiben](img/camdisc.gif)](https://autode.sk/3dx6EbZ)
 
 [Animation](https://autode.sk/3dx6EbZ)
 

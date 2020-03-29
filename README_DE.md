@@ -72,7 +72,7 @@ Durch die Nutzung der [Wassersäulen](https://de.wikipedia.org/wiki/Meter_Wasser
 
 Die Taktgebung erfolgt im aktuellen Prototyp über einen Mikrocontroller und zwei Servos. Diese Lösung wird durch einen Scheibenwischermotor mit zwei [Kurvenscheiben](https://de.wikipedia.org/wiki/Kurvenscheibe) ersetzt werden.
 
-[![Kurvenscheiben](img/camdisc.png)](https://autode.sk/3dx6EbZ)
+[![Kurvenscheiben](img/camdisc.gif)](https://autode.sk/3dx6EbZ)
 
 [Animation der Steuerung](https://autode.sk/3dx6EbZ)
 
