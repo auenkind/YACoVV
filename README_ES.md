@@ -2,6 +2,10 @@
 
 [German-Version is more Detailed / updated more frequently](README_DE.md) <- Please translate (see Contributing)!
 
+[English Version](README.md)
+
+[Version française](README_FR.md)
+
 El objetivo de este proyecto es construir grupos de módulos que son necesarios para la construcción de respiradores. Tales aparatos de respiración artificial puedan usarse como dispositivos de „último recurso“ para pacientes infectados con SARS-CoV-2.
 
 Siempre que sea posible, todos los grupos de módulos deben poder fabricarse con componentes, materias primas y habilidades que estén disponibles donde se necesiten los dispositivos.

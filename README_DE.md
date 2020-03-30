@@ -1,8 +1,10 @@
 # YACoVV - Yet Another (SARS-)CoV(-2)Ventilator
 
-[Spanish Version](README_ES.md)
-
 [English Version](README.md)
+
+[Version française](README_FR.md)
+
+[Spanish Version](README_ES.md)
 
 Dieses Projekt hat zum Ziel, Baugruppen zum Bau von Beatmungsgeräten zu Konstruieren, die als "last resort" Geräte für SARS-CoV-2 Patienten eingesetzt werden können.
 
