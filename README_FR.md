@@ -37,7 +37,7 @@ Voici une liste des éléments de montage:
 
 ## Régulateur de pression
 
-![Regulator-parts](img/system.jpg)
+![Regulator-parts](img/system_fr.jpg)
 
 ### Principe de fonctionnement
 
@@ -50,14 +50,14 @@ Le système utilise des vannes du principe de [vannes à pincement](https://www.
 Ces composants du régulateur de pression peuvent être construits entièrement à partir de matériaux à usage unique et remplacés régulièrement.
 
 #### L’inhalation
-![inhalation](img/insp.jpg)
+![inhalation](img/insp_fr.jpg)
 
 - Grâce au régulateur de pression, le gaz respiratoire atteint une pression utilisable. Nous conseillons 50mbar car ces régulateurs de pression sont disponibles aisément.
 - La vanne d’admission est ouverte par le système mécanique. La vis de réglage limite le flux d’air. Grâce à cette restriction l’utilisation d’un mécanisme de contrôle sans fonction de réglage est possible et la perte de gaz respiratoire minimisée par la fonction de réglage de la colonne d’eau.
 - Le gaz respiratoire circule vers le patient. En cas de dépassement du coefficient de la pression déterminé par la profondeur de l’immersion de la colonne de pression de ventilation, le volume de gaz excédentaire s’écoule par la colonne d’eau. Simultanément, il est possible de contrôler par l’intermédiaire de la formation de bulles si la pression préréglée est atteinte.
 
 #### L’exhalation
-![exhalation](img/exp.jpg)
+![exhalation](img/exp_fr.jpg)
 
 - La vanne d’admission est fermée, la vanne de sortie est ouverte.
 - Le gaz respiratoire circule dans le réservoir à travers la colonne sous pression PEP.
