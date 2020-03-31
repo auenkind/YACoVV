@@ -37,7 +37,7 @@ The components are:
 
 ### Functional principle
 
-The concept behind the [water column](https://de.wikipedia.org/wiki/Meter_Wassers%C3%A4ule) makes sure pressure regulation functions. To generate modifiable pressures in the system, tubes are immersed into water appropriate to the desired pressure. The control tubes are simultaneously used as relief valve. The “return paths” of the water column are savely secured through check valves so that no water can flow back to the patient.
+The concept behind the [water column](https://de.wikipedia.org/wiki/Meter_Wassers%C3%A4ule) makes sure pressure regulation functions. To generate modifiable pressures in the system, tubes are immersed into water appropriate to the desired pressure. The control tubes are simultaneously used as relief valve. Underpressure in the system is prevented by a additional small water column. This column also allows breathing of room air.
 
 Because high entrance pressures can only be regulated through this system with very precise component, we decided using a [50 mBar gas pressure regulator](https://www.campingaz.com/DE/p-25990-verstellbarer-regler-30-50-mbar.aspx) to pre-regulate the pressure. These regulations are available all over the world.
 
@@ -59,7 +59,7 @@ We are using the basic principle behind [constriction hose-valves](https://www.a
 - Over-Pressurizing is practically impossible in the system as the pressure is only closed by water columns. No mechanical parts restrict the pressure.
 - There are no mechanical parts that cna get stuck
 - Losing PEEP is only possible when there are leaks
-- check valves ensure that no water can flow towards the patient
+- The underpressure water column allows the patient to breath room air. This water column also prevnts any underpressure buildup in the system,
 
 #### Valve-Control and Timing
 

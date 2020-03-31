@@ -40,7 +40,7 @@ Geplante Baugruppen sind:
 
 ### Funktionsprinzip
 
-Die Druckregelung funktioniert über das einfache und sichere Prinzip der [Wassersäule](https://de.wikipedia.org/wiki/Meter_Wassers%C3%A4ule). Die zur Beatmung gewünschten Systemdrücke werden mit der Eintauchtiefe der beiden Schläuche reguliert. Die Regelschläuche funktionieren auch als Überdruckventil. Die "Rückwege" der Wassersäulen werden mit Rückschlageventilen versperrt damit kein Wasser zum Patienten gelangen kann.
+Die Druckregelung funktioniert über das einfache und sichere Prinzip der [Wassersäule](https://de.wikipedia.org/wiki/Meter_Wassers%C3%A4ule). Die zur Beatmung gewünschten Systemdrücke werden mit der Eintauchtiefe der beiden Schläuche reguliert. Die Regelschläuche funktionieren auch als Überdruckventil. Ein Unterdruck im System wird durch eine zusätzliche Wassersäule verhindert. Diese ermöglicht auch das Einatmen von Raumluft durch den Patienten bei angeschlossenem System.
 
 Um einen großen Bereich unterschiedlichster Atemgas-Eingansdrücke abdecken zu können wird ein [50 mBar Gasdruckregler](https://www.campingaz.com/DE/p-25990-verstellbarer-regler-30-50-mbar.aspx) zur Vorregelung verwendet. Diese Druckregler sind auf der ganzen Welt in großen Stückzahlen verfügbar.
 
@@ -65,10 +65,10 @@ Das System verdendet Ventile nach dem Prinzip von [Schlauchquetschventilen](http
 Durch die Nutzung der [Wassersäulen](https://de.wikipedia.org/wiki/Meter_Wassers%C3%A4ule) ergibt sich gegenüber anderen Druckregelungssystemen eine sehr hohe Systemsicherheit.
 
 - Die Erzeugung eines Überdrucks oberhalb der eingestellten Wassersäule ist beinahe unmöglich
-- Die Druckregelung enthält keinerlei mechanische Teile die verklemmen / verkleben können dem Verschleiß der Ventilschläuche kann durch regelmäßigen austausch vorgebeugt werden.
+- Die Druckregelung enthält keinerlei mechanische Teile die verklemmen / verkleben können. Dem Verschleiß der Ventilschläuche kann durch regelmäßigen austausch vorgebeugt werden.
 - Husten / Atmung durch den Patienten hat keinen Einfluss auf die Systemfunktion
 - Ein unterschreiten des PEEP ist nur bei undichtem System möglich
-- Durch Rückschlagventile wird verhindert das Wasser beim Einatmen durch den Patienten aus den Drucksäulen angesaugt wird
+- Durch das mit einer Wassersäule realisierte Unterdruckventil wird es ermöglicht das der Patient durch das System Raumluft einatmen kann. Durch diese Ventil wird auch verhindert das im System ein Unterdruck entstehen kann.
 
 #### Ventilsteuerung
 

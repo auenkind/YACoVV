@@ -41,7 +41,7 @@ Voici une liste des éléments de montage:
 
 ### Principe de fonctionnement
 
-La régulation de la pression fonctionne grâce au principe simple et fiable de la [colonne d’eau](https://de.wikipedia.org/wiki/Meter_Wassers%C3%A4ule). La pression souhaitée pour la ventilation est régulée par la profondeur de l’immersion des deux tuyaux. Les tuyaux de réglage ont aussi la fonction d’une vanne de surpression. Le chemin de retour des colonnes d’eaux est barré par une vanne de retenue pour que l’eau ne puisse pas atteindre le patient
+La régulation de la pression fonctionne grâce au principe simple et fiable de la [colonne d’eau](https://de.wikipedia.org/wiki/Meter_Wassers%C3%A4ule). La pression souhaitée pour la ventilation est régulée par la profondeur de l’immersion des deux tuyaux. Les tuyaux de réglage ont aussi la fonction d’une vanne de surpression. Une colonne d'eau supplémentaire empêche la pression négative dans le système. Cela permet également au patient d'inhaler de l'air ambiant lorsque le système est connecté.
 
 Un régulateur de pression de gaz de 50 mbar est utilisé comme pré-régulation afin de pouvoir couvrir un large périmètre de différentes pressions d’alimentation de gaz respiratoire.
 Ces régulateurs de pression sont disponibles en grande quantité dans le monde entier.
@@ -70,7 +70,7 @@ Il s’est avéré une très haute sécurité du système grâce à l’utilisat
 - Le réglage de pression ne contient aucune pièce mécanique qui pourrait bloquer ou boucher le système. Prenez la précaution de remplacer régulièrement les tuyaux afin d’empêcher l’usure des tuyaux.
 - La toux et la respiration du patient n’ont aucune influence sur le système.
 - Le sous-dépassement de la PEP n’est possible qu’en cas d’une fuite du système.
-- Des clapets anti-retour empêchent que l’eau soit aspirée par le patient.
+- La valve à vide réalisée avec une colonne d'eau permet au patient d'inhaler de l'air ambiant à travers le système. Cette valve empêche également le vide de se développer dans le système.
 
 #### Commande des vannes
 

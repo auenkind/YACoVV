@@ -47,7 +47,7 @@ Las problemas con este prototipo:
 
 ### Principio operacional
 
-El control de presión funciona mediante el principio simple y seguro de la columna de agua. Para generar presiones ajustables en el sistema, las mangueras se sumergen en agua a una profundidad correspondiente a la presión deseada. Al mismo tiempo, las mangueras de control funcionan como una válvula de sobrepresión. Los „caminos de retorno“ de las columnas de agua están asegurados con válvulas de retención para que no pueda llegar agua al paciente.
+El control de presión funciona mediante el principio simple y seguro de la columna de agua. Para generar presiones ajustables en el sistema, las mangueras se sumergen en agua a una profundidad correspondiente a la presión deseada. Al mismo tiempo, las mangueras de control funcionan como una válvula de sobrepresión. Una columna de agua adicional evita la presión negativa en el sistema. Esto también permite al paciente inhalar el aire de la habitación cuando el sistema está conectado.
 
 Dado que las altas presiones de entrada solo pueden regularse con este sistema con componentes muy precisos, utilizamos un regulador de presión de gas de 50 mBar para preregular la presión. Dado que estos reguladores están disponibles en grandes cantidades en todo el mundo, representan una solución ideal para nuestro problema.
 
