@@ -35,7 +35,9 @@ Regulación de la relación entre la inspiración y la expiración
 
 ## Reguladores de presión y sincronización
 
-![Regulator-parts](img/system_en.jpg)
+[![Regulator-parts](img/system_en.jpg)](https://www.youtube.com/watch?v=yE1sUh0wc-A)
+
+[Animation](https://www.youtube.com/watch?v=yE1sUh0wc-A)
 
 ### Un vídeo de un prototipo
 [![Prototype](img/prototype.jpg)](https://www.youtube.com/watch?v=eBIlyaHW4l0)
