@@ -33,7 +33,9 @@ The components are:
 
 ## Pressure regulator
 
-![Regulator-parts](img/system_en.jpg)
+[![Regulator-parts](img/system_en.jpg)](https://www.youtube.com/watch?v=yE1sUh0wc-A)
+
+[Animation](https://www.youtube.com/watch?v=yE1sUh0wc-A)
 
 ### Functional principle
 
