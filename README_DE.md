@@ -36,7 +36,9 @@ Geplante Baugruppen sind:
 
 ## Druckregler
 
-![Regulator-parts](img/system.jpg)
+[![Regulator-parts](img/system.jpg)](https://www.youtube.com/watch?v=yE1sUh0wc-A)
+
+[Animation](https://www.youtube.com/watch?v=yE1sUh0wc-A)
 
 ### Funktionsprinzip
 
