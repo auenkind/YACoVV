@@ -37,7 +37,9 @@ Voici une liste des éléments de montage:
 
 ## Régulateur de pression
 
-![Regulator-parts](img/system_fr.jpg)
+[![Regulator-parts](img/system_fr.jpg)](https://www.youtube.com/watch?v=yE1sUh0wc-A)
+
+[Animation](https://www.youtube.com/watch?v=yE1sUh0wc-A)
 
 ### Principe de fonctionnement
 
